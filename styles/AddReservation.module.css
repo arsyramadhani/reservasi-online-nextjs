@@ -1,0 +1,26 @@
+.divBox {
+  border: solid;
+  margin: 2vh;
+  color: "white";
+  padding: 1vh;
+  border-color: white;
+}
+
+.divBoxPlain {
+  margin: 2vh;
+  padding: 1vh;
+}
+.square {
+  color: dimgray;
+  border: solid;
+  height: 3vh;
+  width: 3vh;
+}
+
+.table {
+  color: white;
+}
+
+.textWhite {
+  color: white;
+}

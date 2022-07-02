@@ -1,6 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-}
+  compress: false,
+  basePath: "",
 
-module.exports = nextConfig
+  // basePath: "/TrialReservationOnline",
+};
+
+module.exports = nextConfig;
