@@ -10,13 +10,17 @@ export default function Home() {
           <div className="row">
             <div className="col-lg-6 px-5 pt-3">
               <img
-                src="/images/reservation2.png"
+                src={`/TrialReservationOnline/images/reservation2.png`}
                 className="img-fluid ilus"
                 alt=" "
               />
             </div>
             <div className="col-lg-5" style={{ paddingTop: "60px" }}>
-              <img src="/images/webTxt.png" className="img-fluid" alt=" " />
+              <img
+                src={`/TrialReservationOnline/images/webTxt.png`}
+                className="img-fluid"
+                alt=" "
+              />
             </div>
           </div>
         </div>

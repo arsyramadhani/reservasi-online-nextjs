@@ -56,7 +56,7 @@ const Login = () => {
         <div className={Styles.row}>
           <div className="col-lg-6 px-5 pt-5">
             <img
-              src="/images/calendar.png"
+              src={`/TrialReservationOnline/images/calendar.png`}
               className="img-fluid logologin"
               alt=" "
             />
@@ -65,7 +65,7 @@ const Login = () => {
           <div className="col-lg-5">
             <div>
               <img
-                src="/images/logob7.png"
+                src={`/TrialReservationOnline/images/logob7.png`}
                 style={{ width: "180px" }}
                 alt="Alternate Text"
               />

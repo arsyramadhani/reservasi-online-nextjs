@@ -30,7 +30,7 @@ export default function Layout({ children }) {
         <div
           className="p-4   w-100 mw-100"
           style={{
-            backgroundImage: `url("/images/background_brighter.png")`,
+            backgroundImage: `url("/TrialReservationOnline/images/background_brighter.png")`,
           }}
         >
           {children}

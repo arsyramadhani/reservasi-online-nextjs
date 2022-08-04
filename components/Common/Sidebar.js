@@ -16,7 +16,7 @@ const Sidebar = () => {
       <div
         className="img bg-wrap text-center py-4"
         style={{
-          backgroundImage: `url('/images/bg_1.jpg')`,
+          backgroundImage: `url('/TrialReservationOnline/images/bg_1.jpg')`,
         }}
       >
         <div className="user-logo">
@@ -24,7 +24,7 @@ const Sidebar = () => {
             className="img"
             // style="background-image: url(../../Content/images/logo.png);"
             style={{
-              backgroundImage: `url('/images/logo.png')`,
+              backgroundImage: `url('/TrialReservationOnline/images/logo.png')`,
             }}
           ></div>
           {/* <h3>@Session["Username"]</h3> */}

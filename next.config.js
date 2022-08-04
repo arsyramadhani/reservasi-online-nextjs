@@ -2,8 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   compress: false,
-  basePath: "",
-
+  basePath: "/TrialReservationOnline",
+  trailingSlash: true,
   // basePath: "/TrialReservationOnline",
 };
 
